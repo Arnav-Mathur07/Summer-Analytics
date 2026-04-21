@@ -1,4 +1,4 @@
-## 📖 Overview
+## 📖 Summer Analytics {GeeksforGeeks X Salesforce}
 
 Welcome to my repository for **Summer Analytics 2025**! This repository tracks my learning journey, code assignments, and hackathon submissions throughout the intensive 5-week bootcamp. The course covers everything from core data manipulation and exploratory data analysis (EDA) to advanced supervised machine learning and capstone project implementations.
 
