@@ -62,7 +62,7 @@ This aligns perfectly with the capstone requirements and industry applications o
 
 ## ⚙️ Architecture Diagram
 
-```mermaid
+```
 flowchart TD
     A[CSV Data Stream Simulation] --> B[Pathway Engine]
     B --> C[Feature Engineering + Demand Estimation]
